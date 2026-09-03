@@ -2,7 +2,7 @@
 
 How to use: python convert.py <input.tiff> <output.png> [steps] [log_strenght] [outlines_true_false]
 
-On linkux of course use python3...
+On linux of course use python3...
 
 You`ll have to put in the whole path in input / output
 
